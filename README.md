@@ -1,6 +1,10 @@
 # Hi!
-### Łukasz Szoszkiewicz, a.k.a. Doc
+### Łukasz Szoszkiewicz, PhD
 
-As a social scientist with a legal background and a self-taught data scientist, I delve into the complexities of international human rights law, particularly in an age where technologies like Artificial Intelligence and neurotechnologies are reshaping our world. In an era reminiscent of Orwellian landscapes, where power and control are increasingly in the hands of a few, I focus on the global implications of these shifts. My work is centered on the UN framework, with a strong emphasis on safeguarding social rights and the rights of the child in a world that sometimes feels like it’s teetering on the brink of dystopia.
+I am a social scientist with a legal background and a self-trained data scientist.
 
-When I’m not navigating the intricate labyrinth of neurorights or developing tools to combat the hidden forces at play in the international arena, you might find me exploring new worlds — both in the literal sense of traveling and hiking, and in the literary sense, through stories that challenge the status quo. I approach my work with the belief that, like in the tales of masked vigilantes and gods among us, it’s the fight for justice and truth that ultimately shapes our reality.
+My research focuses on <strong>international human rights law</strong> and the challenges posed by new technologies, such as <strong>Artificial Intelligence</strong> and <strong>neurotechnologies</strong>. Considering how digital technologies erase geographical boundaries, it’s vital to address new challenges from a global perspective. This is why my work concentrates on the UN framework, with a specific focus on social rights and the rights of the child.
+
+I employ a range of methodologies, including natural language processing (Python), statistics, corpus linguistics, and grounded theory.
+
+Currently, I am working on <a href="https://lszoszk.github.io/projects/neurorights/">neurorights</a> and develop a <a href="https://lszoszk.github.io/projects/generalcomments/">search engine for the UN Treaty Bodies' documents</a>.
