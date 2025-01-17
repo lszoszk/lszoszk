@@ -1,4 +1,3 @@
-# Hi!
 ### Łukasz Szoszkiewicz, PhD
 
 I am a social scientist with a legal background and a self-trained data scientist.
